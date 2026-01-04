@@ -1,5 +1,5 @@
 ## About Me:
-I’m currently learning DSA and hoping to get better at it with time 🤞<br>
+I’m currently learning DSA and hoping to get better at it with time 🤞 <br>
 
 
 ## Socials: 
@@ -14,5 +14,4 @@ I’m currently learning DSA and hoping to get better at it with time 🤞<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deepthimuthu77&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
